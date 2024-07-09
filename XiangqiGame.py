@@ -1,7 +1,7 @@
 # Author: Mallory Huston
 # Date: 03/12/2020
-# Description: This program is running an abstract Chinese board game called Xiangqi. It is implementing how the board,
-#              rules, and pieces of the game work. Final project :)
+# Description: This program is running an abstract Chinese board game called Xiangqi. It is implementing how the
+#              board, rules, and pieces of the game work.
 
 
 class XiangqiGame:
