@@ -1,4 +1,4 @@
-# Chinese Chess
+# Xiangqi
 This program contains a class named XiangqiGame for playing an abstract board game called Xiangqi. Please read the "Board", "Rules", and "Pieces" sections on <a href="https://en.wikipedia.org/wiki/Xiangqi">the Wikipedia page.</a>
 
 This program initializes multiple classes that create the famous Chinese chess game known as Xiangqi and checks for winning scenarios after each move. The entire code creates the Xiangqi board, the different types of game pieces, how the rules of the game work, and how one of the two players can win the game. Locations on the board are specified using "algebraic notation", with columns labeled a-i and rows labeled 1-10, with row 1 being the Red side and row 10 the Black side. Each piece has its own class, which explains which moves the specific piece can or cannot make. The player who wins is the one who can check the other player's general first.
@@ -15,4 +15,4 @@ game.make_move('e7', 'e6')
 state = game.get_game_state()</code>
 </pre>
 
-The file is named: <b>XiangqiGame.py</b>
+The file is named: <b>```XiangqiGame.py```</b>
