@@ -25,4 +25,4 @@ black_in_check = game.is_in_check('black')
 game.make_move('e7', 'e6')
 state = game.get_game_state()
 ```
-The file is named: <b>```XiangqiGame.py```</b>
+The file is named: ```XiangqiGame.py```
